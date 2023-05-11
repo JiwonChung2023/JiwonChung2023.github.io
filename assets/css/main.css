@@ -2651,3 +2651,7 @@ input, select, textarea {
 				}
 
 	}
+.myBox{
+	width:600px; height:600px;
+	border-style:1px solid black;
+}

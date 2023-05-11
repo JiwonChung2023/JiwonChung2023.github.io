@@ -2598,14 +2598,7 @@ input, select, textarea {
 /* Mobile */
 
 	@media screen and (max-width: 736px) {
-  .photo {
-    display: block;
-    margin: auto;
-  }
-    .intro {
-    display: block;
-    margin: 20px auto;
-  }
+
 		/* Basic */
 
 			body, input, textarea, select {

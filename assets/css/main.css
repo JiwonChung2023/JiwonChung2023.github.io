@@ -2614,7 +2614,10 @@ input, select, textarea {
 			.container {
 				padding: 0 15px 0 15px;
 			}
-
+			.ccontainer{
+				padding:0;
+				display:block;
+			}
 		/* List */
 
 			ul.icons a {

@@ -2250,6 +2250,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-image: url("../../images/banner.jpg");
+				background-size: cover;
 			}
 
 			#main > section.two {
@@ -2597,7 +2598,14 @@ input, select, textarea {
 /* Mobile */
 
 	@media screen and (max-width: 736px) {
-
+  .photo {
+    display: block;
+    margin: auto;
+  }
+    .intro {
+    display: block;
+    margin: 20px auto;
+  }
 		/* Basic */
 
 			body, input, textarea, select {
